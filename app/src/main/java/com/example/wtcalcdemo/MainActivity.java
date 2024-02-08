@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // Another line on February 8 from local
+
         // --------------------    Action Bar   --------------------------------
         // Home enable, set logo, and then use logo.
         ActionBar actionBar = getSupportActionBar();
