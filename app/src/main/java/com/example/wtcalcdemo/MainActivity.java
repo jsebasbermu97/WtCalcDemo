@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // Another line on February 8 from local
+        // Line of code added from remote (web)
 
         // --------------------    Action Bar   --------------------------------
         // Home enable, set logo, and then use logo.
